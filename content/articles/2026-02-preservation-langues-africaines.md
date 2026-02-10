@@ -30,7 +30,7 @@ status: "published"
 ## Comprendre — Contexte & problème
 Le cas malien met en évidence un enjeu structurel : la plupart des langues africaines restent sous-représentées dans les corpus numériques. Cela limite directement la performance des outils de traitement automatique de la langue.
 
-Dans l’entretien mené par le CIT, M. Nouhoum Souleymane COULIBALY (RobotsMali) décrit une réponse pragmatique : partir de l’oralité locale pour créer des ressources exploitables par des modèles d’IA. Les éléments partagés sont les suivants :
+Dans l’entretien mené par la CIT, M. Nouhoum Souleymane COULIBALY (RobotsMali) décrit une réponse pragmatique : partir de l’oralité locale pour créer des ressources exploitables par des modèles d’IA. Les éléments partagés sont les suivants :
 - **Plus de 30 heures** d’échanges avec des griots [À vérifier].
 - **350 heures** d’émissions de radios locales [À vérifier].
 - **612 heures** de corpus total, couvrant des thèmes tels que l’agriculture, la santé et l’éducation [À vérifier].
