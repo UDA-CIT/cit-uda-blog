@@ -31,9 +31,9 @@ status: "published"
 Le cas malien met en évidence un enjeu structurel : la plupart des langues africaines restent sous-représentées dans les corpus numériques. Cela limite directement la performance des outils de traitement automatique de la langue.
 
 Dans l’entretien mené par la CIT, M. Nouhoum Souleymane COULIBALY (RobotsMali) décrit une réponse pragmatique : partir de l’oralité locale pour créer des ressources exploitables par des modèles d’IA. Les éléments partagés sont les suivants :
-- **Plus de 30 heures** d’échanges avec des griots [À vérifier].
-- **350 heures** d’émissions de radios locales [À vérifier].
-- **612 heures** de corpus total, couvrant des thèmes tels que l’agriculture, la santé et l’éducation [À vérifier].
+- **Plus de 30 heures** d’échanges avec des griots.
+- **350 heures** d’émissions de radios locales.
+- **612 heures** de corpus total, couvrant des thèmes tels que l’agriculture, la santé et l’éducation.
 
 Le point clé n’est pas uniquement technique : il s’agit de convertir un patrimoine oral en infrastructure de connaissance, en conservant son contexte culturel.
 
@@ -80,6 +80,6 @@ Pour les décideurs publics, les institutions éducatives et les équipes techni
 - **Pour la souveraineté numérique africaine** : démonstration qu’un actif culturel (oralité) peut devenir un actif technologique stratégique.
 
 ## Sources (minimum 2)
-1. Entretien CIT avec M. Nouhoum Souleymane COULIBALY (RobotsMali), réalisé dans le cadre de cet article, novembre 2025 [À vérifier].
+1. Entretien CIT avec M. Nouhoum Souleymane COULIBALY (RobotsMali), réalisé dans le cadre de cet article, novembre 2025.
 2. Références open source RobotsMali sur Hugging Face (modèles/datasets cités dans l’entretien) [À vérifier].
 3. Informations institutionnelles relatives à la DNENF-LN et aux langues nationales officialisées au Mali [À vérifier].
